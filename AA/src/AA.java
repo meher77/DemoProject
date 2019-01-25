@@ -7,6 +7,7 @@ public class AA {
 		System.out.println("how r u");
 		System.out.println(" what are you doing");
 		System.out.println("aaaa");
+		System.out.println("cccc");
 	
 	}
 }
